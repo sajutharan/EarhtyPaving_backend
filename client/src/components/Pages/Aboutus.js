@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Aboutus = () => {
+const Aboutus = ()=> {
   return (
-    <div>Aboutus</div>
+    <div>Aboutus</div>   
   )
 }
 
