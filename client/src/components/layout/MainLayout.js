@@ -6,14 +6,11 @@ const MainLayout=()=>{
     return(
         <>
            <div className ='site'>
-            <div className='main'>
-                <div>Header</div>
-                 <Outlet/>
-                
-               
+                <Header/>
+                <div className='main'>                 
+                    <Outlet/>                                 
+                </div>
             </div>
-
-           </div>
         </>
     )
 }

@@ -1,0 +1,19 @@
+.site-header{
+    color:#fff;
+    display:flex;
+    background-color: #152D51;
+    box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%), 0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+}
+
+/* .primary-menu {￼
+    display:flex;
+    align-items:center;
+    flex-grow: 1;
+    justify-content: space-between;
+    margin: 5px;
+} */
